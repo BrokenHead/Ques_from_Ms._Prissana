@@ -66,4 +66,4 @@ console.log(getQuestionPart(["BEFRIEND", "GIRLFRIEND", "FRIENDSHIP"])) // ["BE",
 console.log(" ")
 console.log(getQuestionPart(["FEELGOOD", "SOUND GOOD", "LOOK GOOD"])) // [ 'FEEL', 'SOUND', 'LOOK' ]
 console.log(" ")
-console.log(getQuestionPart(["FEEL GOOD", "FEEL SAD", "FEEL HAPPY"])) // [ 'FEEL', 'SOUND', 'LOOK' 
+console.log(getQuestionPart(["FEEL GOOD", "FEEL SAD", "FEEL HAPPY"])) // [ 'GOOD', 'SAD', 'HAPPY' ]
