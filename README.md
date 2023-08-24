@@ -24,14 +24,7 @@ First, make a folder and run it in vs code
 ```
   code .
 ```
-
-Second, Start TypeScript project and open watch mode for detact file changes in .ts file extension to make it complie to .js file extension
-```
-  tsc --init
-  tsc -w // make a ./ts folder to set as input target and make a ./dist folder to set as output target
-```
-
-3rd, Start Node js project and open Nodemon for detact file changes in .js file extension to make it complie when file had changes 
+Second, Start Node js project and open Nodemon for detact file changes in .js file extension to make it complie when file had changes 
 ```
   npm init
   npm -i nodemon // add "dev": "nodemon ./ts/Question****.ts" to "scripts": in package.json for set detacting target
@@ -39,6 +32,14 @@ Second, Start TypeScript project and open watch mode for detact file changes in 
   npm -i typescript
   npm run dev
 ```
+3rd, Start TypeScript project and open watch mode for detact file changes in .ts file extension to make it complie to .js file extension
+```
+  tsc --init
+  npm -i tsc-watch
+  tsc -w // make a ./ts folder to set as input target and make a ./dist folder to set as output target
+```
+
+
 
 ### here you are, An auto complie .ts file for testing this Interview's Question, just save(CTRL + S) and answer (if console.log) will pop out 
 
