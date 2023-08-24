@@ -18,7 +18,7 @@ Output : find lower angle in clock long-short hands
 Input : got 3 word/Phrases<br>
 Output : remove same longest word in every word
 
-## How I run Question
+## How I run Questions
 
 first, make a folder and run it in vs code
 ```
