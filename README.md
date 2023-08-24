@@ -3,7 +3,7 @@ Question for interview from Ms. Prissana,
 I apologize if It have mistake since It my first time to writing typeScript
 
 ## Why / how's it working
-This is repository for Midas soft Co., Ltd. Interview.In a position BackEnd with Node js
+This is repository for Midas soft Co., Ltd. Interview. In a position of BackEnd with Node js. 
 With is repository in ./ts folder it have all 3 Questions that I got
 
 ### Question 1  hand score
