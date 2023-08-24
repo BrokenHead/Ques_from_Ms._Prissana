@@ -35,6 +35,8 @@ second, Start TypeScript project and open watch mode for detact file changes in 
 ```
   npm init
   npm -i nodemon // add "dev": "nodemon ./ts/Question****.ts" to "scripts": in package.json for set detacting target
+  npm -i ts-node
+  npm -i typescript
   npm run dev
 ```
 
