@@ -1,5 +1,5 @@
 # Ques_from_Ms._Prissana
-Question for interview from Ms. Prissana
+Question for interview from Ms. Prissana, 
 I apologize if It have mistake since It my first time to writing typeScript
 
 ## Why / how's it working
