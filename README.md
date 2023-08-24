@@ -31,7 +31,7 @@ Second, Start TypeScript project and open watch mode for detact file changes in 
   tsc -w // make a ./ts folder to set as input target and make a ./dist folder to set as output target
 ```
 
-3rd, Strt Node js project and open Nodemon for detact file changes in .js file extension to make it complie when file had changes 
+3rd, Start Node js project and open Nodemon for detact file changes in .js file extension to make it complie when file had changes 
 ```
   npm init
   npm -i nodemon // add "dev": "nodemon ./ts/Question****.ts" to "scripts": in package.json for set detacting target
