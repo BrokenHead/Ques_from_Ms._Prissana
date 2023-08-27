@@ -37,7 +37,7 @@ function getHandScore(card) {
             return 35;
         return 32.5;
     }
-    return score.sort().reverse()[0];
+    return score.sort(a, b) => b - a)[0];
 }
 console.log(getHandScore("S8 S10 CA"));
 console.log(getHandScore("H4 H2 C3"));
